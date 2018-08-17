@@ -43,9 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Anagram_Solver.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Self_Documenting_Anagram_Solver.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

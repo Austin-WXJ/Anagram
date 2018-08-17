@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace Anagram_Cardinal_Health
 {
-    class Program
+    class Anagram_Solver
     {
-        static void Main(string[] args)
+        static void Main(string word)
         {
+            string Word_Sorted_By_Character = string.Concat(word.OrderBy(character => character));
+
 
         }
     }
