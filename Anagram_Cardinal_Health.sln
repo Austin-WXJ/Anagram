@@ -7,7 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagram_Cardinal_Health", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{58241627-F81D-4320-BFDE-8186371A415D}"
 	ProjectSection(SolutionItems) = preProject
+		Anagram_Cardinal_Health\bin\Debug\Debug.txt = Anagram_Cardinal_Health\bin\Debug\Debug.txt
+		Anagram_Cardinal_Health\bin\Debug\dictionary.txt = Anagram_Cardinal_Health\bin\Debug\dictionary.txt
 		README.md = README.md
+		Anagram_Cardinal_Health\bin\Debug\TestFile.txt = Anagram_Cardinal_Health\bin\Debug\TestFile.txt
+		Anagram_Cardinal_Health\bin\Debug\TestFile2.txt = Anagram_Cardinal_Health\bin\Debug\TestFile2.txt
+		Anagram_Cardinal_Health\bin\Debug\TestFile3.txt = Anagram_Cardinal_Health\bin\Debug\TestFile3.txt
+		Anagram_Cardinal_Health\bin\Debug\words.txt = Anagram_Cardinal_Health\bin\Debug\words.txt
 	EndProjectSection
 EndProject
 Global
